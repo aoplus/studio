@@ -19,7 +19,7 @@ export default function Home() {
                   Create a group card everyone can sign
                 </h1>
                 <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                  GroupHug makes it easy to celebrate together, no matter where
+                  Greetly makes it easy to celebrate together, no matter where
                   you are. Perfect for birthdays, farewells, and thank yous.
                 </p>
               </div>
@@ -119,7 +119,7 @@ export default function Home() {
                 Every Card Plants a Tree
               </h2>
               <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                We&apos;re committed to making a positive impact on the planet. For every paid card sent through GroupHug, we contribute to tree planting initiatives.
+                We&apos;re committed to making a positive impact on the planet. For every paid card sent through Greetly, we contribute to tree planting initiatives.
               </p>
               <TreeCounter count={1357} />
             </div>
